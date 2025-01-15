@@ -4,6 +4,6 @@ to run the project first install the packages:
 
 then run the tests:
 
-```npm run tests```
+```npm run test```
 
 See the output.
